@@ -29,3 +29,7 @@ ACCESS_TOKEN_SECRET = 'abc123'
 (You can also use a different AZURE_URL)
 
 5. Then just do ```python main.py``` and the bot will start working
+
+## TO DO
+* Add some kind of logging
+* Support URLs that don't end with '.jpg' or '.png'
